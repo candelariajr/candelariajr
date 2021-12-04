@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
   MIDI-related devices, machine learning applied to sound design
 - 📫 How to reach me ...
-  Eh, every time I put any contact info out there I get lots of random spam/scam/phishing. If you know me, you know my email. If you don't, then I'm on LinkedIn.
+  Eh, every time I put any contact info out there I get lots of random spam/scam/phishing calls. I'm on LinkedIn.
 
 <!---
 candelariajr/candelariajr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
